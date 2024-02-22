@@ -1,0 +1,293 @@
+
+.agree, .agree a{
+  text-align: center;
+  font-family: sans-serif;
+  font-size:14px;
+  margin-top:-10px;
+  color:grey;
+}
+.aorcard{
+    background-color:grey;
+    height:80px;
+    width:0.5px;
+    margin-left:650px;
+    margin-bottom:70px;
+    margin-top:-150px;
+}
+.apple{
+    width:35px;
+    margin-left:-7px;
+}
+
+.borcard{
+    background-color:grey;
+    height:80px;
+    width:0.5px;
+    margin-left:650px;
+}
+
+.cbutton{
+    background-color: rgb(20, 86, 161);
+    border:none;
+    width:300px;
+    height:45px;
+    font-family:sans-serif;
+    color:white;
+    border-radius:5px;
+}
+.continue{
+    display:inline-flex;
+    margin-left:30px;
+    margin-top:10px;
+}
+.continue a{
+    margin-top:5px;
+    margin-left:40px;
+}
+.caccount{
+    font-family:sans-serif;
+    color:black;
+    font-size:14px;
+    margin-left:1050px;
+    font-weight: bold;
+    text-decoration:none;
+}
+.email{
+    margin-left:300px;
+    margin-top:60px;
+
+}
+.email p{
+    font-family:sans-serif;
+    font-size:13px;
+}
+.head{
+    font-family:helvetica;
+    text-align:center;
+    font-size:30px;
+    margin-top:100px;
+}
+hr{
+    width:132px;
+    height:1.5px;
+    background-color:black;
+    margin-left:580px;
+    border:none;
+
+}
+.einput{
+    height:45px;
+    width:300px;
+    border:1px solid black;
+
+}
+.einput:focus{
+    border:2px solid aqua;
+    border-radius:5px;
+    outline:none;
+
+}
+img{
+    width:23px;
+    height:23px;
+}
+.line{
+    width:120px;
+    height:1.5px;
+    background-color:black;
+    margin-left:1098px;
+    border:none;
+}
+.or{
+    margin-left:640px;
+    margin-top:-60px;
+}
+.ologin{
+    background-color: white;
+    border:0.5px solid black;
+    margin-bottom:20px;
+    border-radius:5px;
+    height:50px;
+    width:300px;
+ 
+}
+.ologin:hover{
+    background-color:beige;
+}
+.ologin a{
+    text-decoration:none;
+    font-family:sans-serif;
+    color:black;
+    font-size:13px;
+}
+
+.ologins{
+    margin-top:-210px;
+    margin-left:700px;
+   
+   
+}
+.or{
+
+    font-family:sans-serif;
+    color:grey;
+    font-size:12px;
+}
+.password{
+    margin-left:580px;
+    text-decoration:none;
+    color:black;
+    font-family:sans-serif;
+    font-size:13px;
+    font-weight:bold;
+    margin-top:100px;
+}
+.wlogo{
+    margin-left:20px;
+   
+}
+@media only screen and (max-width: 768px) {
+
+   
+    .agree{
+        font-size:58px;
+        margin-right:-1450px;
+        text-align:center;
+        margin-top:-80px;
+    }
+    .agree a{
+        font-size:58px;
+    }
+    .apple{
+        width:120px;
+        height:80px;
+        margin-left:10px;
+        margin-right:-20px;
+     }
+    .aorcard{
+        width:700px;
+        height:2px;
+        margin-top:100px;
+        margin-left:110px;
+        margin-right:-1200px;
+    }
+    .borcard{
+        width:700px;
+        height:2px;
+        margin-top:-70px;
+        margin-left:1100px;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    .continue{
+        margin-left:50px;
+        margin-top:40px;
+    }
+    .continue a{
+        font-size:55px;
+        text-align: center;
+        margin-left:500px;
+    }
+    .caccount{
+       font-size: 55px;
+       margin-top:-50px;
+       margin-left:-50px;
+       margin-right:-2700px;
+       display:flex;
+       justify-content: center;
+    }
+
+    .cbutton{
+        width:1750px;
+        height:170px;
+        font-size:55px;
+        margin-top:80px;
+        margin-left:-220px;
+        border-radius:10px;
+
+    }
+
+    .continue img:not([class="apple"]){
+        width:80px;
+        height:80px;
+        margin-left:30px;
+       
+    }
+    .email p{
+        margin-left:-210px;
+        font-size:  55px;
+        margin-right:-800px;
+    }
+    .einput{
+        width:1750px;
+        height:170px;
+        margin-left:-220px;
+        border-radius:10px;
+
+    }
+    .wlogo{
+       width:90px;
+       height:90px;
+       margin-left:80px;
+       margin-right:600px;
+       margin-top:90px;
+    
+    }
+ 
+    .head{
+        font-size:120px;
+        margin-right:-1550px;
+        margin-left:-70px;
+        margin-top:250px;
+    
+    }
+    hr{
+        width:500px;
+        height:5px;
+        background-color:black;
+        margin-left:720px;
+        border:none;
+        margin-top:20px;
+    
+    }
+    .line{
+        width:480px;
+        height:5px;
+        background-color:black;
+        margin-left:1320px;
+        border:none;
+        margin-top:10px;
+       
+     
+
+    }
+    .ologins{
+        margin-top:100px;
+    }
+    .or{
+        font-size:48px;
+        margin-top:-100px;
+        margin-left:910px;
+       
+    }
+    .ologin{
+        width:1750px;
+        height:170px;
+        margin-left:-620px;
+    }
+    .password{
+        font-size: 50px;
+        margin-top:-40px;
+       
+       margin-right:-900px;
+       display:flex;
+       justify-content: center;
+        
+        
+        text-align: right;
+        margin-top: 50px; 
+    
+    }
+
+}
