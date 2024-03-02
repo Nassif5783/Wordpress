@@ -82,7 +82,7 @@ hr{
 
 }
 .einput:focus{
-    border:2px solid aqua;
+    border:2px solid pink;
     border-radius:5px;
     outline:none;
 
