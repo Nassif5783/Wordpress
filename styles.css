@@ -48,7 +48,7 @@
     font-family:sans-serif;
     color:black;
     font-size:14px;
-    margin-left:300px;
+    margin-left:1050px;
     font-weight: bold;
     text-decoration:none;
 }
@@ -193,7 +193,7 @@ img{
        font-size: 55px;
        margin-top:-50px;
        margin-left:-50px;
-       margin-right:-2700px;
+       margin-right:-2000px;
        display:flex;
        justify-content: center;
     }
