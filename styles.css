@@ -228,6 +228,8 @@ img{
     }
   .einput:focus{
     border:2px solid green;
+     border-radius:5px;
+    outline:none;
   }
     .wlogo{
        width:90px;
