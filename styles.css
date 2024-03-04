@@ -226,6 +226,9 @@ img{
         border-radius:10px;
 
     }
+  .einput:focus{
+    border:2px solid green;
+  }
     .wlogo{
        width:90px;
        height:90px;
