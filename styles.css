@@ -149,13 +149,13 @@ img{
 
    
     .agree{
-        font-size:45px;
+        font-size:50px;
         margin-right:-1200px;
         text-align:center;
         margin-top:-80px;
     }
     .agree a{
-        font-size:45px;
+        font-size:50px;
     }
     .apple{
         width:120px;
@@ -284,7 +284,7 @@ img{
         font-size: 50px;
         margin-top:-40px;
        
-       margin-right:-1000px;
+       margin-right:-1400px;
        display:flex;
        justify-content: center;
         
